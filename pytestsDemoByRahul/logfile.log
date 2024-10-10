@@ -1,0 +1,9 @@
+2024-09-18 23:41:38,395 :INFO : test_editProfile :Rahul
+2024-09-18 23:41:38,395 :INFO : test_editProfile :rahulshettyacademy.com
+2024-09-18 23:41:38,412 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2024-09-18 23:42:27,944 :INFO : test_editProfile :Rahul
+2024-09-18 23:42:27,944 :INFO : test_editProfile :rahulshettyacademy.com
+2024-09-18 23:42:27,960 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2024-09-18 23:42:52,920 :INFO : test_editProfile :Rahul
+2024-09-18 23:42:52,920 :INFO : test_editProfile :rahulshettyacademy.com
+2024-09-18 23:42:52,937 :CRITICAL : pytestsDemo.test_logging :Critical issue
